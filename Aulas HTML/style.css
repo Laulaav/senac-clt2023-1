@@ -4,3 +4,7 @@ margin-left: 8vw;
 margin-right:  8vw;
 background: linear-gradient(#B9F3FC, #FEDEFF);
 }
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
